@@ -32,7 +32,7 @@ To view the portfolio website:
 
 ## Contact
 
-For any inquiries, please feel free to reach out to me via email: (Your Email Address).
+For any inquiries, please feel free to reach out to me via email: chileshreyash54@gmail.com.
 
 ## License
 
